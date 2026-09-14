@@ -29,5 +29,12 @@ I build small open-source tools to learn in the open (see my
 
 - **GitHub:** [awadhesh246](https://github.com/awadhesh246)
 - **LinkedIn:** [awadhesh246](https://www.linkedin.com/in/awadhesh246/)
+- **Certifications:** [My badges on Credly](https://www.credly.com/users/awadhesh-kumar.e5d6c17f/badges/credly)
 - **Blog:** [awadhesh246.wordpress.com](https://awadhesh246.wordpress.com)
 - **Résumé:** [Download PDF](/assets/Awadhesh-Kumar.pdf)
+
+## Contact
+
+The best way to reach me is through my
+[contact page](https://awadhesh246.wordpress.com/contact/), or connect with me on
+[LinkedIn](https://www.linkedin.com/in/awadhesh246/).
