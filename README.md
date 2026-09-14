@@ -49,3 +49,5 @@ bundle exec jekyll serve
 - **Full maintenance guide:** see [`docs/MAINTAINING.md`](docs/MAINTAINING.md) — how to
   add posts, edit pages, preview locally, troubleshoot, and add features later.
 - A reusable blank post lives at [`docs/post-template.md`](docs/post-template.md).
+- **Spec-driven development:** this site's specs live in [`spec/`](spec/) — it's a
+  living SDD example. New features are done spec-first.
