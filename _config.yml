@@ -1,0 +1,36 @@
+title: Awadhesh Kumar
+tagline: Software Engineer — notes on building software, AI-native
+description: >-
+  Resume, blog, and notes by Awadhesh Kumar — a software engineer writing
+  about spec-driven development, living artifacts, and the AI-native journey.
+author: Awadhesh Kumar
+email: awadhesh246@gmail.com
+
+# Theme (built into GitHub Pages — no build config needed)
+theme: minima
+
+# Links shown by the minima theme
+minima:
+  social_links:
+    github: awadhesh246
+    linkedin: awadhesh246
+
+# External profiles (used on the homepage)
+github_username: awadhesh246
+linkedin_url: https://www.linkedin.com/in/awadhesh246/
+wordpress_url: https://awadhesh246.wordpress.com
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+# Header nav (minima uses page titles; these appear in the top nav)
+header_pages:
+  - about.md
+
+exclude:
+  - files-to-add/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

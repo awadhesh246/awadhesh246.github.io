@@ -1,0 +1,18 @@
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby / Bundler
+vendor/
+.bundle/
+Gemfile.lock
+
+# Local drop folder for files not meant to be published as-is
+files-to-add/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
