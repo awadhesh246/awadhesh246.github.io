@@ -35,6 +35,6 @@ I build small open-source tools to learn in the open (see my
 
 ## Contact
 
-The best way to reach me is through my
-[contact page](https://awadhesh246.wordpress.com/contact/), or connect with me on
-[LinkedIn](https://www.linkedin.com/in/awadhesh246/).
+The best way to reach me is on
+[LinkedIn](https://www.linkedin.com/in/awadhesh246/) — feel free to connect or send a
+message.
