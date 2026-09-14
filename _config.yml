@@ -30,6 +30,7 @@ header_pages:
 
 exclude:
   - files-to-add/
+  - docs/
   - README.md
   - Gemfile
   - Gemfile.lock

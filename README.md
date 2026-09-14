@@ -46,3 +46,6 @@ bundle exec jekyll serve
 
 - Theme: `minima` (built into GitHub Pages — no build action required).
 - The `files-to-add/` folder is a local staging area and is git-ignored.
+- **Full maintenance guide:** see [`docs/MAINTAINING.md`](docs/MAINTAINING.md) — how to
+  add posts, edit pages, preview locally, troubleshoot, and add features later.
+- A reusable blank post lives at [`docs/post-template.md`](docs/post-template.md).
