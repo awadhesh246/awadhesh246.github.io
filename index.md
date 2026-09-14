@@ -22,7 +22,6 @@ This site is where I keep my résumé, my writing, and notes from what I'm learn
 - **GitHub:** [github.com/awadhesh246](https://github.com/awadhesh246)
 - **LinkedIn:** [linkedin.com/in/awadhesh246](https://www.linkedin.com/in/awadhesh246/)
 - **Certifications:** [My badges on Credly](https://www.credly.com/users/awadhesh-kumar.e5d6c17f/badges/credly)
-- **Blog (more posts):** [awadhesh246.wordpress.com](https://awadhesh246.wordpress.com)
 - **Résumé:** [Download PDF](/assets/Awadhesh-Kumar.pdf)
 - **Contact:** [Message me on LinkedIn](https://www.linkedin.com/in/awadhesh246/)
 
